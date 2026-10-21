@@ -1,0 +1,6 @@
+{
+  "name": "PhotoBooth Pro Windows Studio",
+  "description": "Professional Windows Photo Booth software suite with live webcam kiosk, customized filmstrips, print spooler, retro filters, and downloadable native Windows Python application.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
